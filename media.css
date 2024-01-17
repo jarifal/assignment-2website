@@ -183,8 +183,9 @@
 
     .book-content {
         width: 300px;
-        height: 300px;
+        height: 320px;
         margin: 150px 20px 20px 20px;
+        
     }
 
     .book-heading {
@@ -204,6 +205,10 @@
     }
     .btn {
         margin-left: 10px;
+    }
+
+    .book-container {
+        justify-content: center;
     }
 
     /* my footer responsive start */
