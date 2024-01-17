@@ -63,6 +63,7 @@
         margin: 30px;
         gap: 50px;
         flex-direction: column;
+        align-items: center;
     }
 
     .populer-picture img {

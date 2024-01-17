@@ -148,6 +148,7 @@ body {}
     display: flex;
     margin: 100px;
     gap: 50px;
+    align-items: center;
 }
 
 .populer-content-heading {
