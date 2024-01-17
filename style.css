@@ -120,7 +120,7 @@ body {}
     padding: 16px 66px 16px 16px;
     border-radius: 8px;
     background-color: #FFF;
-    color: #424247;
+    color: rgba(19, 19, 24, 0.50);
     border: none;
 }
 
@@ -130,6 +130,7 @@ body {}
     padding: 16px 0px 16px 16px;
     background-color: #FFF;
     border: none;
+    color: rgba(19, 19, 24, 0.50);
 }
 
 .banner-style .find-now {
