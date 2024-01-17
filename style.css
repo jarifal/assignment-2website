@@ -435,6 +435,18 @@ body {}
     padding: 10px;
 }
 
+.btn10 {
+    margin-top: 50px;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+    border: none;
+    padding: 15px;
+}
+
 /* newslatter related CSS */
 .newsletter-container {
     display: flex;
