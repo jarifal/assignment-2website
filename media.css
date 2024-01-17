@@ -211,6 +211,10 @@
         justify-content: center;
     }
 
+    .books-containers {
+        justify-content: center;
+    }
+
     /* my footer responsive start */
 
     .footer-p {

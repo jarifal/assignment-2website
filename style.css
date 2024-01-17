@@ -367,11 +367,13 @@ body {}
 .deals-banner {
     background-image: url("Images/Group\ 39.png");
     margin-bottom: 50px;
+    background-repeat: no-repeat;
 }
 
 .deals-banners {
     background-image: url("Images/Group\ 40.png");
     margin-bottom: 50px;
+    background-repeat: no-repeat;
 }
 
 .book-container {
