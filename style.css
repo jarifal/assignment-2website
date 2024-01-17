@@ -447,6 +447,55 @@ body {}
     padding: 15px;
 }
 
+/* see more related CSS */
+
+.seemore-container {
+    display: flex;
+    margin: 100px 100px;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.seemore-heading {
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 60px;
+    margin-bottom: 25px;
+}
+
+.seemore-p {
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+
+.list {
+    list-style: disc;
+    color: #131318;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
+.btn5 {
+    margin-top: 20px;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+    border: none;
+    padding: 10px;
+}
+.video {
+    border-radius: 16px;
+}
+
 /* newslatter related CSS */
 .newsletter-container {
     display: flex;

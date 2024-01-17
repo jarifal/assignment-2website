@@ -215,6 +215,15 @@
         justify-content: center;
     }
 
+    .seemore-container {
+        margin: 50px 30px;
+        flex-direction: column;
+    }
+
+    .video {
+        width: 100%;
+    }
+
     /* my footer responsive start */
 
     .footer-p {
